@@ -16,6 +16,14 @@
 |**stach:**|git stash temporarily shelves (or stashes) changes you've made to your working copy so you can work on something else, and then come back and re-apply them later on. Stashing is handy if you need to quickly switch context and work on something else, but you're mid-way through a code change and aren't quite ready to commit.|
 
 
+--------------------------------------------------------------------------
+
+# ehsan
+| words  |Describtion|
+|:-------|:----------|
+|Rebase|Integrate changes from one branch to another.|
+|Clone |The process of making a copy of the remote repository to the local machine.|
+|Cherrypick|Select a commit from one branch and apply it to other branches.|
 
 
    
