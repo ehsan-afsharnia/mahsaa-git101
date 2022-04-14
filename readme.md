@@ -14,7 +14,7 @@
 |**up-stream/down-stream:**|The term upstream and downstream refers to the repository. Generally, upstream is from where you clone the repository, and downstream is any project that integrates your work with other works.|
 |**repository:**|A Git repository is the . git/ folder inside a project. This repository tracks all changes made to files in your project, building a history over time. Meaning, if you delete the . git/ folder, then you delete your project's history.|
 |**stach:**|git stash temporarily shelves (or stashes) changes you've made to your working copy so you can work on something else, and then come back and re-apply them later on. Stashing is handy if you need to quickly switch context and work on something else, but you're mid-way through a code change and aren't quite ready to commit.|
-|**head:**|
+
 
 
 
@@ -23,11 +23,7 @@
     
 
     
-up-stream/down-stream:
-    
-repository:
-    
-stach:
+
     
 
 
